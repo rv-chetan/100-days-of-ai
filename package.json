@@ -1,0 +1,22 @@
+{
+  "name": "100-days-of-ai",
+  "version": "1.0.0",
+  "description": "| Day | Goal | Status | |-----|------|--------|",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-ai:rv-chetan/100-days-of-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^6.8.1"
+  }
+}
